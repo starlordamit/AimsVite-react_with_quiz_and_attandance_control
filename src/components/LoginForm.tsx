@@ -221,11 +221,7 @@ export default function LoginForm() {
           transition={{ duration: 0.5 }}
         >
           <div className="inline-block p-1 mb-6">
-            <img
-              src={"./public/assets/logo.svg"}
-              alt="Logo"
-              className="w-40 h-40"
-            />
+            <img src={"/assets/logo.svg"} alt="Logo" className="w-40 h-40" />
           </div>
           <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
             Welcome Back
