@@ -222,7 +222,7 @@ export default function LoginForm() {
         >
           <div className="inline-block p-1 mb-6">
             <img
-              src="/assets/logo-DL9kQcUo.svg"
+              src="https://aimsbyamitnew.vercel.app/assets/logo-DL9kQcUo.svg"
               alt="Logo"
               className="w-40 h-40"
             />

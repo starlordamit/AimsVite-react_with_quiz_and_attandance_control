@@ -65,7 +65,7 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
             >
               <span className="text-lg font-semibold bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-purple-500 dark:from-violet-400 dark:to-purple-400">
                 <img
-                  src="/assets/logo-DL9kQcUo.svg"
+                  src="https://aimsbyamitnew.vercel.app/assets/logo-DL9kQcUo.svg"
                   width="70%"
                   marginright="50px"
                   alt="logo"
